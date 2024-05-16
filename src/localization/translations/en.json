@@ -1,0 +1,45 @@
+{
+    "language": "English",
+    "screens": {
+        "intro": {
+            "title": "Intro Screen",
+            "text": {
+                "introText": "This is the intro text in english",
+                "login": "Login",
+                "signup": "Sign Up"
+            }
+        },
+        "login": {
+            "title": "Sign in",
+            "text": {
+                "login": "login",
+                "emailAddress": "Email address",
+                "password": "password",
+                "continue": "Continue",
+                "createAccount": "Create an Account",
+                "forgotPassword": "Forgotten password?"
+            }
+        },
+		"home": {
+            "title": "Home",
+			"demo1":"help to play a game",
+			"demo2": "help to change the Theme",
+            "text": {
+                "labtests" : "Lab test",
+				"date" : "Date"
+            }
+        },
+		"set":{
+			"useFalcon" :"Use Falcon for hlep ",
+			"mode":{
+				"dark":"Switch to Dark Mode",
+				"light":"Switch to Light Mode"
+			}
+		},
+		"lang": {
+			"arabic" :"Arabic", 
+			"english":"English",
+			"langu": "language"
+		}
+    }
+}
