@@ -204,7 +204,7 @@ git clone https://github.com/AhmedAlfahal/InnovateX-Hackathon.git
 **Enter the repository and install the required packages**
 
 ```sh
-cd MOI_Hackathon
+cd InnovateX-Hackathon
 npm install
 ```
 
